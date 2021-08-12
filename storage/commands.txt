@@ -1,0 +1,7 @@
+Here are the commands you can use 
+
+To get your information: >USERINFO
+Ping Pong commands: >PING
+Help command: >HELP 
+
+
